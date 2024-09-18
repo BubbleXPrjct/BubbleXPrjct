@@ -1,5 +1,4 @@
 # Yoo Everyone 
-[Linkedin](https://www.linkedin.com/in/rifky-fahriza-sinaga-a44846298/)ku ya.## Hi there 👋
 
 ### Github Statistic
 <p align="left">
