@@ -1,13 +1,5 @@
-# Halo semua! 
-
-Saya **Rifky Fahriza Sinaga**.<br>
-
-Saya seorang **Mahasiswa Teknik Informatika Di Universitas Malikussaleh** di [Dicoding](https://www.dicoding.com/).<br>
-
-Saya suka mengeksplore hal - hal baru terutama dalam bidang teknologi.<br>
-
-
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/rifky-fahriza-sinaga-a44846298/)ku ya.## Hi there 👋
+# Yoo Everyone 
+[Linkedin](https://www.linkedin.com/in/rifky-fahriza-sinaga-a44846298/)ku ya.## Hi there 👋
 
 ### Github Statistic
 <p align="left">
